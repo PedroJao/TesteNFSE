@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais
+.venv/
+env/
+venv/
+
+# Arquivos de configuração local
+.env
+*.env
+
+# Arquivos temporários
+*.log
+*.tmp
+/tmp/
+
+# Diretórios de dados temporários do projeto
+/tmp/nfse_leitor/
+/tmp/nfse_leitor/data/
+
+# Dependências geradas pelo UV
+.uv/
+uv.lock
+
+# Arquivos do VS Code
+.vscode/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de build ou pacotes
+dist/
+build/
+*.egg-info/
