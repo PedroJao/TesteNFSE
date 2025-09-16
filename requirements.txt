@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+pydantic
+opencv-python
+numpy
+pytesseract
+PyMuPDF
+pdfplumber
+requests
+python-dotenv
